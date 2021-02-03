@@ -1,2 +1,4 @@
 # cartorio-docket
-Spring docker test
+Registry test
+
+- Registry created using Spring Boot, Spring Data JPA and Thymeleaf
